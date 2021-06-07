@@ -19,7 +19,7 @@
   * [Contact](#contact)
   
   # Installation
-  The following must be installed or linked in order to run the application properly: ...
+  The following must be installed or linked in order to run the application properly: <em>npm install express sequelize mysql2</em>, <em>npm install dotenv</em>, <em>npm init -y</em> from the command line to initialize a new Node.js package.
   
   # Usage
   ​... 
