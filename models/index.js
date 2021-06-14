@@ -1,6 +1,6 @@
 const Vote = require('./Vote');
 const User = require("./User");
-const Post = require("./renaming");
+const Post = require("./Post");
 const Comment = require("./Comment");
 
 // create associations
