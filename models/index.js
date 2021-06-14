@@ -1,4 +1,4 @@
-const Vote = require('./Vote');
+const Vote = require('./renaming');
 const User = require("./User");
 const Post = require("./Post");
 const Comment = require("./Comment");
